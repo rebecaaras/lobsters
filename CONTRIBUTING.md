@@ -97,7 +97,7 @@ or as a [Github issue](https://github.com/lobsters/lobsters/issues) to avoid was
 
 ### Making your change
 
-* Create a branch to work on: `git checkout -b ...'
+* Create a branch to work on: `git checkout -b ...`
 
 * Write your commit messages in present tense ("fix foo", not "fixed foo").
   [Mention a GitHub issue number](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests) if there is one.
